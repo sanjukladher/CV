@@ -15,7 +15,6 @@ ZIV is a company that designs, manufactures, and supplies, equipment and cabinet
   - Work individual on this project under the supervision of the manager.
   - **_Technologies used:_** HTML, CSS, PHP, JavaScript, BitBucket, MYSQL.
 <br><br>
-
 **Data Science Intern** @ [Orcawise,Ireland](https://orcawise.com/) _(November 2019 - Feburary 2020 )_ <br>
 Orcawise is the global leader for Signal-Based Selling. Orcawise performs deep information analysis on public data sources to identify buying signals. Signals are delivered via a knowledge graph to the sales and marketing teams of global growth companies.
   - Implemented a Data cleansing and Data preparation module to clean up unstructured scrape text data.
@@ -24,8 +23,6 @@ Orcawise is the global leader for Signal-Based Selling. Orcawise performs deep i
   - Achieved better results in entities extraction process generate better sales lead.
   - **_Technologies used:_** Python, Data Analysis, NLTK, Spacy, Genism, MongoDB, NOSQL.
 <br><br>
-
-
 **Computer Science Tutor** @ [First Tutors,Ireland](http://firsttutors.com/) _(March 2019 - September 2019 )_ <br>
 First Tutors: Ireland is an Irish grinds finding service, providing an increasingly popular method to find grinds from private tutors all over Ireland. Enjoy the choice of local home tutors who offer grinds from their homes, or private tutors who will travel to your home to give grinds. 
   - Tutored high school and fresh year students 1-on-1.
@@ -43,14 +40,11 @@ First Tutors: Ireland is an Irish grinds finding service, providing an increasin
 
 **Bachelor of Science** in Computer Science<br>
 [National University of Computer and Emerging Sciences](https://khi.nu.edu.pk/) - Karachi, Pakistan _(2012 - 2016)_
-
 <br><br>
-
 ## 👩🏼‍🎓 Courses
 
 **Data Scientist with Python Track** (23 courses and more than 1000 excercises)<br>
 [DataCamp](https://khi.nu.edu.pk/) - _(April 2021 - June 2021)_
-
 
 ## 💬 Languages
 
