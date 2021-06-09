@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Sanjay Kumar
 
-You can use the [editor on GitHub](https://github.com/sanjukladher/Digital_resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Data Analyst based in Dublin Ireland_ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:sanjaymaheshwari595@gmail.com) / [LinkedIn](https://www.linkedin.com/in/sanjay1995/) / [GitHub](https://github.com/sanjukladher/)
 
-### Markdown
+## 👩🏼‍💻 Technical Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sanjukladher/Digital_resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Junior Web Developer Intern** @ [ZIV Automation Ireland](https://www.zivautomation.com/) _(March 2020 - November 2020)_ <br>
+ZIV is a company that designs, manufactures, and supplies, equipment and cabinets for the protection and control of electrical substations (SAS), smart solutions for MV & LV grid digitalization (DAS), advanced metering infrastructure (Metering) for smart grid deployments, and Electric Vehicle charging solutions.
+  - Completed project in 9-month while learning web development skills.
+  - Automated company manual work process designed an in-house website to view the work process and its stages.
+  - Design modules such as user registration module, device testing and many more.
+  - Administrates database management and manage both back-end and front-end development.
+  - Work individual on this project under the supervision of the manager.
+  - **_Technologies used:_** HTML, CSS, PHP, JavaScript, BitBucket, MYSQL.
+<br><br>
