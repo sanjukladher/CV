@@ -40,9 +40,8 @@ First Tutors: Ireland is an Irish grinds finding service, providing an increasin
 
 **Bachelor of Science** in Computer Science<br>
 [National University of Computer and Emerging Sciences](https://khi.nu.edu.pk/) - Karachi, Pakistan _(2012 - 2016)_
-<br><br>
+<br>
 ## 👩🏼‍🎓 Courses
-
 **Data Scientist with Python Track** (23 courses and more than 1000 excercises)<br>
 [DataCamp](https://khi.nu.edu.pk/) - _(April 2021 - June 2021)_
 
